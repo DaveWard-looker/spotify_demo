@@ -20,3 +20,5 @@ include: "/views/*.view.lkml"                # include all views in the views/ f
 # }
 
 explore: popularity_ireland {}
+
+explore: popularity_uk {}
